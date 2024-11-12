@@ -4,19 +4,14 @@ import { ArrowUpRight } from 'lucide-react';
 export default function Website() {
   const teamMembers = [
     {
-      name: 'Sarah Chen',
-      role: 'Founder / CEO',
-      bio: 'With over 15 years of experience in AI and machine learning, Sarah has led innovative projects at major tech companies and holds multiple patents in ML systems.',
+      name: 'Jatin Jaiswal',
+      role: 'Co-Founder',
+      bio: 'Lorem Ipsum',
     },
     {
-      name: 'Marcus Rodriguez',
-      role: 'Chief Technology Officer',
-      bio: 'Marcus brings deep expertise in scalable AI systems, having previously architected solutions for enterprise companies and contributed to open-source ML frameworks.',
-    },
-    {
-      name: 'Dr. Maya Patel',
-      role: 'Head of Research',
-      bio: 'Maya completed her PhD in Computer Science at MIT, focusing on reinforcement learning. She previously led research teams at leading AI labs.',
+      name: 'Kabir Jaiswal',
+      role: 'Co-Founder',
+      bio: 'Lorem Ipsum',
     },
   ];
 
