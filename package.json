@@ -2,7 +2,7 @@
   "name": "agenticbio-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kabir12345.github.io/agenticbio-website",
+  "homepage": "https://agenticbio.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
