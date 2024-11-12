@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/agenticbio-website/static/css/main.ff0a2b56.css",
+    "main.js": "/agenticbio-website/static/js/main.33ff53a6.js",
+    "static/js/453.1095aaa8.chunk.js": "/agenticbio-website/static/js/453.1095aaa8.chunk.js",
+    "index.html": "/agenticbio-website/index.html",
+    "main.ff0a2b56.css.map": "/agenticbio-website/static/css/main.ff0a2b56.css.map",
+    "main.33ff53a6.js.map": "/agenticbio-website/static/js/main.33ff53a6.js.map",
+    "453.1095aaa8.chunk.js.map": "/agenticbio-website/static/js/453.1095aaa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff0a2b56.css",
+    "static/js/main.33ff53a6.js"
+  ]
+}
