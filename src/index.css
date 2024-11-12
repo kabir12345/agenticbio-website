@@ -2,15 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
+/* @font-face {
   font-family: 'PolySans';
   src: url('./fonts/PolySans-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
-}
+} */
 
 .font-sans {
-  font-family: 'PolySans', sans-serif;
+  font-family: sans-serif;
 }
 
 .font-helvetica {
