@@ -31,7 +31,7 @@ export default function Website() {
          }}>
       {/* Header */}
       <header className="p-6 flex justify-between items-center max-w-7xl mx-auto">
-        <div className="text-2xl font-bold text-black" style={{ fontFamily: "'Inter', sans-serif" }}>AgenticBio</div>
+        <div className="text-2xl font-bold text-black" style={{ fontFamily: "'Inter', sans-serif" }}>Agentic<span style={{color:"#fa885c"}}>Bio</span></div>
         <a href="mailto:kabirjaiswal30@gmail.com" className="flex items-center gap-2 hover:text-blue-600">
           <span>Contact Us</span>
           <ArrowUpRight size={20} />
