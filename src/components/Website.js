@@ -118,10 +118,8 @@ export default function Website() {
       <footer style={{ backgroundColor: 'black' }} className="mt-24">
         <div className="max-w-7xl mx-auto px-6 py-12">
           <div className="flex justify-between items-center">
-            <a href="mailto:kabirjaiswal30@gmail.com" className="text-white hover:text-gray-100">
-              kabirjaiswal30@gmail.com
-            </a>
-            <p className="text-white">© 2024 Agentic Bio Inc.</p>
+        
+            <p className="text-white">© 2024 AgenticBio</p>
           </div>
         </div>
       </footer>
