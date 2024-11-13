@@ -7,20 +7,27 @@ export default function Website() {
       name: 'Jatin Jaiswal',
       role: 'Co-Founder',
       bio: 'Lorem Ipsum',
-      image: 'https://your-image-url-for-jatin.jpg',
-      linkedin: 'https://linkedin.com/in/your-profile',
+      image: 'https://media.licdn.com/dms/image/v2/C4D03AQGVOMOSwXpXmA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1641942275501?e=1736985600&v=beta&t=3gtQnCLJYo0msRzzskJ8syAqbooiIymT_TZl_Fd6ITU',
+      linkedin: 'https://www.linkedin.com/in/jatinjaiswal/',
     },
     {
       name: 'Kabir Jaiswal',
       role: 'Co-Founder',
       bio: 'Lorem Ipsum',
-      image: 'https://your-image-url-for-kabir.jpg',
-      linkedin: 'https://linkedin.com/in/your-profile',
+      image: 'https://media.licdn.com/dms/image/v2/D4E03AQFhgtUA9Vt6mw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1712081730560?e=1736985600&v=beta&t=cGxvVi25IygT7NMELvrUvgst8TmRTxF3KiXp09jQHDQ',
+      linkedin: 'https://www.linkedin.com/in/kabir-j/',
     },
   ];
 
   return (
-    <div className="min-h-screen text-gray-900" style={{ fontFamily: "'Public Sans', sans-serif", backgroundColor: '#F7F1E5' }}>
+    <div className="min-h-screen text-gray-900" 
+         style={{ 
+           fontFamily: "'Public Sans', sans-serif",
+           backgroundImage: 'url(https://img.freepik.com/free-photo/blurry-peach-circle-background-gradient-vintage-style_53876-104475.jpg)',
+           backgroundRepeat: 'repeat-y',
+           backgroundSize: '100% auto',
+           backgroundPosition: 'center top'
+         }}>
       {/* Header */}
       <header className="p-6 flex justify-between items-center max-w-7xl mx-auto">
         <div className="text-2xl font-bold" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>Agentic Bio</div>
@@ -32,14 +39,7 @@ export default function Website() {
 
       {/* Hero Section */}
       <div className="py-24 px-6">
-        <div 
-          className="max-w-4xl mx-auto rounded-3xl overflow-hidden p-12"
-          style={{
-            backgroundImage: 'url(https://img.freepik.com/free-photo/blurry-peach-circle-background-gradient-vintage-style_53876-104475.jpg)',
-            backgroundSize: 'cover',
-            backgroundPosition: 'center',
-          }}
-        >
+        <div className="max-w-4xl mx-auto">
           <h1 className="text-5xl font-bold mb-8 tracking-tight text-left" 
               style={{ 
                 fontFamily: "'Space Grotesk', sans-serif",
