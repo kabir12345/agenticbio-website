@@ -115,7 +115,7 @@ export default function Website() {
       </div>
 
       {/* Footer */}
-      <footer style={{ backgroundColor: '#EE9A78' }} className="mt-24">
+      <footer style={{ backgroundColor: 'black' }} className="mt-24">
         <div className="max-w-7xl mx-auto px-6 py-12">
           <div className="flex justify-between items-center">
             <a href="mailto:kabirjaiswal30@gmail.com" className="text-white hover:text-gray-100">
